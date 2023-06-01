@@ -26,7 +26,7 @@ Pour faciliter le traitement et le nettoyage des données dans Talend, un exécu
 3. Lancer l'executable "Update_mensuel.exe"
 4. Séléctionner le dossier contenant vos fichiers contenant vos données (Projet AMOA/Data)
 5. Valider votre sélection
-![image](https://github.com/User-SarahN/AMOA/assets/104094471/779677bb-d5db-42d6-ad62-a237d02381c4)
+![image1](1.png)
 
 L'exécutable Python lancera automatiquement les jobs Talend en utilisant les données fournies. Suivez ces instructions afin de démarrer le processus de traitement et de nettoyage des données pour les nouvelles entrées entrantes.
 
