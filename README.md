@@ -35,8 +35,7 @@ Une fois sur la page d'accueil du site (http://localhost/index.php), vous serez 
 - Utilisateur : (Les identifiants sont disponibles dans le document "users.xlsx")
 -  Mot de passe : (Les mots de passe correspondants sont également disponibles dans le document "users.xlsx")
 Une fois connecté, vous pourrez explorer les données et interagir avec le tableau de bord Power BI.
-
-![image](https://github.com/User-SarahN/AMOA/assets/104094471/a64ab661-d854-4b44-8c13-9973da3995b2)
+![image1](2.png)
 
 ## Remarque
 Assurez-vous d'avoir des autorisations suffisantes pour accéder au site, aux fichiers nécessaires et pour exécuter des scripts Python sur votre machine. En cas de problème lors de l'installation ou de l'utilisation du tableau de bord, veuillez consulter la documentation fournie avec les logiciels XAMPP, Power BI et Talend, ainsi que les ressources en ligne correspondantes, pour obtenir de l'aide supplémentaire.
@@ -50,10 +49,9 @@ Pour toutes questions relatives au projet n'hésitez pas à nous contacter à l'
 
 
 ## Aperçu de quelques pages du dashbaord 
-![image](https://github.com/User-SarahN/AMOA/assets/104094471/ee1aa4f7-6b81-4918-bf27-addf60681182)
-![image](https://github.com/User-SarahN/AMOA/assets/104094471/5b9dda32-a1cd-48f0-846b-9ee8374051ca)
-![image](https://github.com/User-SarahN/AMOA/assets/104094471/4b0e293b-2e0f-4aba-bd2b-f4434e5266b0)
-![image](https://github.com/User-SarahN/AMOA/assets/104094471/b4f60d2f-5806-46e7-bc0a-bd97899ecb32)
-![image](https://github.com/User-SarahN/AMOA/assets/104094471/dea66f8f-9e55-4ba1-a987-731ebc7b006b)
-![image](https://github.com/User-SarahN/AMOA/assets/104094471/4122906a-8b2a-41dc-9293-a4d469088c8b)
-
+![image1](3.png)
+![image1](4.png)
+![image1](5.png)
+![image1](6.png)
+![image1](7.png)
+![image1](8.png)
