@@ -7,6 +7,7 @@ Avant de pouvoir accéder au site et profiter pleinement du tableau de bord, ass
 - XAMPP : Une suite logicielle comprenant Apache, MySQL, PHP, etc., pour héberger le site localement.
 - Power BI : Un logiciel de visualisation des données.
 - Talend version 8.0.1 : Un outil d'intégration et d'analyse des données.
+
 De plus, pour faciliter le traitement et le nettoyage des données dans Talend, un exécutable Python a été développé. Assurez-vous d'avoir Python installé sur votre machine.
 
 ## Installation
