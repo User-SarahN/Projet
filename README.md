@@ -1,4 +1,4 @@
-## Projet Darties - Tableau de bord Power BI
+## Projet Darties
 Ce projet a été conçu pour créer un tableau de bord interactif sur Power BI et traiter et nettoyer les données à l'aide de Talend. L'utilisateur peut accéder facilement au tableau de bord via un site Internet convivial.
 
 ## Prérequis
